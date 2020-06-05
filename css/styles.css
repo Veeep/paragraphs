@@ -55,5 +55,17 @@ img {
   border: 2px dashed green;
   padding: 4px;
   background-color: orange;
-  background-image: url(https://www.google.com) ;
+}
+
+.flashy {
+  color: brown;
+  font-weight: 20;
+}
+
+.icing {
+  color: pink;
+}
+
+.salty {
+  font-size: large;
 }
