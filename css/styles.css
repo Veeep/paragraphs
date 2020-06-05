@@ -9,7 +9,9 @@ p.author {
   font-weight: bold;
 }
 
-
+p.important {
+  color: green;
+}
 
 .important {
   color: red;
@@ -26,4 +28,8 @@ p.author {
 
 .highlight {
   color: black;
+}
+
+img {
+  float: left;
 }
