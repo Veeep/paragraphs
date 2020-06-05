@@ -39,3 +39,21 @@ img {
   float: right;
   background-color: yellow;
 }
+
+.column {
+  width: 20%;
+  float: left;
+}
+
+.main {
+  color: magenta;
+  float: right;
+}
+
+.my-class {
+  margin: 12px;
+  border: 2px dashed green;
+  padding: 4px;
+  background-color: orange;
+  background-image: url(https://www.google.com) ;
+}
